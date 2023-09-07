@@ -10,6 +10,15 @@ The data preprocessing contains two steps:
 
 * Load the Data
 
-* Preprocess the data to meet certain requirements.
+    * `read_csv()`: This function has so many parameters that can simplify the code. So you have to dive deeper into it.
+
+* Preprocess the data to meet certain requirements. 
+  
+    * How to transform your data into category type? 
+
+        >It's a effective data type in terms of Recommender System.
+
+
+## Model
 
 
